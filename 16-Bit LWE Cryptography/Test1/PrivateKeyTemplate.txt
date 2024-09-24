@@ -1,7 +1,7 @@
-s
-v
-key
-m
-n
-r
-c
+s (size of system of equations)
+v (number of variables)
+key (passkey)
+m (mod)
+n (number of equations added)
+r (radius of error of solutions)
+c (coeffecient max)
